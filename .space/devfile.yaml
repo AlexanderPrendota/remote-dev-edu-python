@@ -2,7 +2,7 @@ schemaVersion: 2.2.0
 attributes:
   space:
     editor:
-      type: IdeaEdu
+      type: Idea
       # the config appends to the default .vmoptions
       vmoptions:
       - '-Xms1048m'

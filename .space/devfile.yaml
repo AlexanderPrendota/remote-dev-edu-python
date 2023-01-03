@@ -7,3 +7,5 @@ attributes:
       vmoptions:
       - '-Xms1048m'
       - '-Xmx1096m'
+    warmup:
+      script: echo ok

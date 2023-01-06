@@ -8,4 +8,4 @@ attributes:
       - '-Xms1048m'
       - '-Xmx1096m'
     warmup:
-      script: echo ok
+      script: pip3 install -r requirements.txt

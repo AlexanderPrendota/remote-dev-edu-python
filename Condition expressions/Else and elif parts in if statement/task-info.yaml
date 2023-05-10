@@ -5,7 +5,7 @@ files:
   placeholders:
   - offset: 352
     length: 40
-    placeholder_text: '# TODO: check if name is equal to "John"'
+    placeholder_text: "# TODO: check if name is equal to \"John\""
     initial_state:
       length: 40
       offset: 352
@@ -15,7 +15,7 @@ files:
     encrypted_possible_answer: YXWeHMShtP6NRYqEh0LNO8VV38RIZiZihC2BpcnS3Kk=
   - offset: 409
     length: 20
-    placeholder_text: '# TODO: otherwise...'
+    placeholder_text: "# TODO: otherwise..."
     initial_state:
       length: 20
       offset: 409

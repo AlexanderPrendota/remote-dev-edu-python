@@ -14,66 +14,66 @@ files:
     status: Unchecked
     encrypted_possible_answer: lGQxpA1+z52GAwFJDQSO/A==
   - offset: 103
-    length: 55
-    placeholder_text: '# get the argument of the division of the number by two'
+    length: 56
+    placeholder_text: '# get the remainder of the division of the number by two'
     initial_state:
-      length: 55
+      length: 56
       offset: 103
     initialized_from_dependency: false
     selected: false
     status: Unchecked
     encrypted_possible_answer: +e4pv0YAe10VViDxo4Fm6w==
-  - offset: 184
+  - offset: 185
     length: 35
     placeholder_text: '# multiply the division result by 2'
     initial_state:
       length: 35
-      offset: 184
+      offset: 185
     initialized_from_dependency: false
     selected: false
     status: Unchecked
     encrypted_possible_answer: t43UqH5laWQWGEg+EbiH0s1XBCP9lvVooppvpg50Qgk=
-  - offset: 239
+  - offset: 240
     length: 57
     placeholder_text: '# add the division remainder to the multiplication result'
     initial_state:
       length: 57
-      offset: 239
+      offset: 240
     initialized_from_dependency: false
     selected: false
     status: Unchecked
     encrypted_possible_answer: AWxCOVsmJb5hC+guvuNyoB3C4oNTysI9JnY5OXx84Z8h2ek9AdLzrOSTabWbOsx9
-  - offset: 319
+  - offset: 320
     length: 60
     placeholder_text: '# subtract the multiplication result from the initial number'
     initial_state:
       length: 60
-      offset: 319
+      offset: 320
     initialized_from_dependency: false
     selected: false
     status: Unchecked
     encrypted_possible_answer: H3IzrWV+lN8B/ro7s1CmTHWp25Tm6ZTQmdCqzAOGrSQ=
-  - offset: 396
+  - offset: 397
     length: 41
     placeholder_text: '# perform a floor division of number by 2'
     initial_state:
       length: 41
-      offset: 396
+      offset: 397
     initialized_from_dependency: false
     selected: false
     status: Unchecked
     encrypted_possible_answer: e4XrUkwPs44lzYPqLX6Djg==
-  - offset: 454
+  - offset: 455
     length: 51
     placeholder_text: '# raise the multiplication result to the power of 3'
     initial_state:
       length: 51
-      offset: 454
+      offset: 455
     initialized_from_dependency: false
     selected: false
     status: Unchecked
     encrypted_possible_answer: AWxCOVsmJb5hC+guvuNyoAKsWZtufe9HFqDxWqFaIhI=
-  encrypted_text: hfbkELl8Xo1LId/aahgBqBoB6nAH3udqvuXjgK/DTg4Dga+JiEhlKs5MgAo38Or+iD4+pDHkXDl/qmk+q0a1nJIKIhRlw7XyXOxDsUdZOTazgbGxArPfGGj3iJawHVCOGN5EOcjbxtGIHfZgnvbB8sPkBMeMa2w9ZSvYU2WN6pFixj7eSoHOzjkZBBUK1d8/VbUTBIVTGr42MIHKj0mBVL+BiiI9qITp0yOtBrNMF3Mcb/mXRVnCd3lQLuVQTjSYd9M2Y0qJKDH/heKVaqL0ZV6Tu1/ziqJDosRz+YSPopTZsMTSTJNuBTbmfpRoyrRhyHmnxE3DU5haHmPhHE6CiKZjp2tcDnXUUo5ban/7HIdcUh3twqLVt6dCkEpJisD0JJ6fIWZI5ZKwZdfLn4uGrRqSB5RfTdIQXNCJ/YI6fN3lYZ00k/1m3HEKLOjz5Se2G3tTATLGtNXTgViqaBO62leUvevXeaScoOKXAtxB103RQ2vFPurfPqShB9LF3Gp6t0dJInz7Oy8ejkCUDCZ4uOu8Z9iVxMoY6ggn9PkW+doFF/E5jKZceMUZ6cQpNED9y3cuSsWbqotxVdo/sjuPc2kw9j+rrNw5tjzgZRpSpE6HXtGg4pbYe/YJgY0cZOTxm7t+E032fYRdWbIj96Vbkm1mCdinYHP6uvQLFW7q8aZw6yy8Mn9uz1O4E76WHS8E8uymNTDHg+SfP0fQVmGhqiBw9GH/Xk54iqxrMu4M1gA=
+  encrypted_text: hfbkELl8Xo1LId/aahgBqBoB6nAH3udqvuXjgK/DTg4Dga+JiEhlKs5MgAo38Or+iD4+pDHkXDl/qmk+q0a1nJIKIhRlw7XyXOxDsUdZOTazgbGxArPfGGj3iJawHVCOGN5EOcjbxtGIHfZgnvbB8ozBWHMmY5HF2xt1KgLaMsGViTmmqK8qVekVL3JEOHJdIo3mu54hcUlxRd7sL14BAIDa2P8efnH032UCnmCzZFTp+fq2GG9wrLLKFUlBgBXvndL6xek0Vz5+f1rNDEoT4+VHYir6skIkm4vlKK0PavAemGUqdNTd293tdCkr41dxOe+ZncSm3ty1hrXXuEYTBnGiSlVJme2NHTHkN641Z7ZmfKIreokPoPVaJMzBXAK5/etIK0VZZUIDY+tteHhQVNndVYjEmV1NLUXCsLnyR2aqmZ81wnCe6lcv/0g9ddwvSdVbyuME/mEXFgKj7sSWeZEOII+a5ldl2GVMyPtFma2T4ORUrY42cFaOKOSZojFCQ5MxdIXriGzYrfOmObFsMXtqzf265SNO84Jw2Edjoxm2OXK1Fca6EH6JuBFrCeasMUTd1abyK+W5qijzpY3g1jedQGANGebrLbI0v/N7RyYywsNLHGcT6dcZ03fZTLuXblTqIYoPcZHdxJ3ZfxdcuzXLKUQ8TCaY7yPr5pJJ5DK+bMogaxqCDlgfvBhFFKKoP9spgJVmkJ/6C9y8ZZvxBYncgwXU4v1GHxYXWd8LyAg=
   learner_created: false
 - name: tests/test_task.py
   visible: false

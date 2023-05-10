@@ -19,8 +19,8 @@ files:
     encrypted_possible_answer: uBwPgdmXCSa+XJi5v3PN1A==
   - offset: 98
     length: 87
-    placeholder_text: '# On a new line in  "output.txt", add all elements from the
-      zoo list, joined by " and "'
+    placeholder_text: "# On a new line in  \"output.txt\", add all elements from the\
+      \ zoo list, joined by \" and \""
     initial_state:
       length: 87
       offset: 98

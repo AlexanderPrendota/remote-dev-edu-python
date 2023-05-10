@@ -5,8 +5,8 @@ files:
   placeholders:
   - offset: 1121
     length: 72
-    placeholder_text: '# Declare the phrases following the output, like in the task
-      description'
+    placeholder_text: "# Declare the phrases following the output, like in the task\
+      \ description"
     initial_state:
       length: 72
       offset: 1121
@@ -27,7 +27,7 @@ files:
     encrypted_possible_answer: rJDEopCZXWyUGtiU38SAh6DtsnSTnCxq2zdI1rBVp5fGj6bxgIhSRIOwqUA1wFAGUJnDpIZoQnbOkuRKcBrYPA==
   - offset: 1426
     length: 49
-    placeholder_text: '# invoke cat with some food, phrases and keywords'
+    placeholder_text: "# invoke cat with some food, phrases and keywords"
     initial_state:
       length: 49
       offset: 1426

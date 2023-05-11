@@ -1,6 +1,6 @@
 type: edu
 files:
-- name: task.py
+- name: infinite.py
   visible: true
   placeholders:
   - offset: 146
@@ -17,7 +17,7 @@ files:
   learner_created: false
 - name: tests/test_task.py
   visible: false
-  encrypted_text: XIlL2u+4gqNTqO7La77YdUL7aR8p/B/NVC9K2/TYHAVxSARFdRAZ2St0LZI8vC2xclLRZWr9GEDuuHtiEo29ELTs8XhcqzznoMZ3bDKL2jkbWVOSdRfbImAwToYV+qI/Xj+jHn6gZxYqdk3l/MueI5TzAB9Zd4ZSFc36UbnGrf9Stii8fvDO8DaUUC/1dh6K73NsprTXIzQ+YqBPFkunPdEstiWWlrT5A/STHNPRTu2Nd5SveOed5amcPqbyEb7/6dT6TBvCCjKUTzFVGdg9L1g40DLlzatatE1OQxL7MZ+TBftzMmbN9r8wnJQIVkbtkL+zMblv/soslnhYPc4Sh7CCoOUL6JcgG0OqhKamyMLlZ4fTZOh+XvEgQuSK6D2zJu/KIq9KWbALtUVXU0hYjcNhI+wcjaqNoF/QZSrXlUktL4NZfAZODwhpt0SH7Fc7lgkZ8gfjDCP4gOBfL/r+YG+U0UUa+hOF+DwxiT2uI5JunKKIgHzKVtv1VybCcIHkIl5ZVg3MM1cyCrUDQeZPYLgOTaqrNFAcgoW09KXTFON7P4zFuR+R/dchbb9jcLK/mQNUfwT7/GUsSdNk9rIwVGIvu86w4F18GoQnV1wXqd7QZaYJds+jCq42o7a4iCpWo4rYEuRaLsbmA1yIPzqt85c7/plvRCIu5btx1vBneBS66Yn6drBMRfJx/chDFZ/a
+  encrypted_text: XIlL2u+4gqNTqO7La77YdUL7aR8p/B/NVC9K2/TYHAVxSARFdRAZ2St0LZI8vC2xclLRZWr9GEDuuHtiEo29ELTs8XhcqzznoMZ3bDKL2jmWQtBIuAwltLVb/qTAT+6ndGDNNNdFv2Sg385nndOE/wyAxuaspvTzqrmpR5+rbF+Gj5XZSNRLX1E2jmXV7SXYoSFIabaCJw8M+QIoPO1I0fIiTo5xO/8twxJolO2RHUgOlTgTjAn3kkupE0kYXW0yXlmA3qYcLMKptoXiIaMvY+1UHN/wW/pK++506rxaIvoVt37YXGjAY71Pj4YYq2J5e24i+tn36rHE0lOHAxC3KehAUmOGupEFNdynUBifEnQ9pQraj9IGXmlNJ/+etqpkh2EGvwsvcrXSsa6buMLiaW4TW5R2NtRC1kbo6sAwREj1M/wN3hgwogGCEj6hrRu3mbMOHc1xbyfYRSbYfCC6eK5rakerzxDPLrCSxAnKr1qLUmQo+9zDuADyPAc2EVIc0U3XFJRpF2JOtYYdxdun9fvvU7a4YGAOiSi74zqj5aGZa9OInFwBDKFDVmHfq++NvegBUb435q7csFFUA37JDAqUX4Z5g507fgRNX9mwrHMX9ZgfVTbi6VmMl3t3cyOOj3wTy4PXeydC/e8JxH+HNdlhKyPaz9eB1ZI5kiR5J2SytHeZYB2gBVnO/Q0HRWRiEld5qRtKSORhbAxX0kOPAw==
   learner_created: false
 - name: __init__.py
   visible: false

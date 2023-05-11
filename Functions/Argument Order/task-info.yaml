@@ -13,7 +13,7 @@ files:
   placeholders:
   - offset: 185
     length: 19
-    placeholder_text: length=5, 5, '____'
+    placeholder_text: "length=5, 5, '____'"
     initial_state:
       length: 19
       offset: 185

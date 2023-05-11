@@ -2,7 +2,7 @@ number = 9.0        # Float number
 
 division_result = # divide the number by two
 
-division_remainder = # get the argument of the division of the number by two
+division_remainder = # get the remainder of the division of the number by two
 
 multiplication_result = # multiply the division result by 2
 
